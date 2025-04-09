@@ -1,14 +1,13 @@
-## Ola! 👋 Eu sou o Henrique
+## Hello! 👋 I'm Henrique
 
+### My interests today
+* 👯 I'm looking to collaborate on open/commercial projects
+* 🤔 Seeking to delve deeper into technologies with NodeJS
+* 💬 Ask me anything about __Desenvolvimento Web__
+* 📫 How to reach me: Whatsapp, Instagram
+* 🌐 Visit my website(https://simpler1ick.github.io/) for more information.
 
-### Meus interesses atualmente
-* 👯 Estou procurando colaborar em projetos abertos/comerciais
-* 🤔 Buscando me aprofundar em tecnologias com NodeJS 
-* 💬 Me pergunte qualquer coisa sobre __Desenvolvimento Web__
-* 📫 Como chegar até mim: Whatsapp, Instagram
-* 🌐 Visite meu [website](https://simpler1ick.github.io/) para mais informações.
-
-### Desenvolvedor Full-Stack
+### Full-Stack Developer
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=simpler1ick&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=simpler1ick&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6">
