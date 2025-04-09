@@ -3,8 +3,8 @@
 ### My interests today
 * 👯 I'm looking to collaborate on open/commercial projects
 * 🤔 Seeking to delve deeper into technologies with NodeJS
-* 💬 Ask me anything about __Desenvolvimento Web__
-* 📫 How to reach me: Whatsapp, Instagram
+* 💬 Ask me anything about __Web Development__
+* 📫 How to reach me: Whatsapp, E-mail
 * 🌐 Visit my website(https://simpler1ick.github.io/) for more information.
 
 ### Full-Stack Developer
